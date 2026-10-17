@@ -1,0 +1,1 @@
+execute as @a at @s if dimension sky_archipelago_dimension:sky_archipelago_dimension if entity @s[y=-10,dy=10] run function sky_archipelago_dimension:return_to_overworld

@@ -1,0 +1,28 @@
+# Minecraft Logs & Crash Reports & Minecraft Runtime Caches & Local History
+logs/
+crash-reports/
+debug/
+downloads/
+usercache.json
+usernamecache.json
+command_history.txt
+
+# Test World Saves & Runtime Caches
+saves/
+local/
+.fabric/
+.mixin.out/
+
+# OS & Editor Junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Personal Settings & Client State
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+realms_persistence.json
