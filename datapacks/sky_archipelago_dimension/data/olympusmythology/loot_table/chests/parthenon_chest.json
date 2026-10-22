@@ -104,8 +104,9 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:custom_name": "{\"text\":\"Zeus Feather\",\"color\":\"gold\",\"italic\":false}",
-                "minecraft:custom_data": "{zeus_feather:1b}",
+                "minecraft:custom_name": "{\"text\":\"Ancient Feather\",\"color\":\"gold\",\"italic\":false}",
+                "minecraft:custom_data": "{ancient_feather:1b}",
+                "minecraft:custom_model_data": 1, 
                 "minecraft:enchantment_glint_override": true,
                 "minecraft:lore": [
                 "{\"text\":\"It crackles with divine electricity.\",\"color\":\"dark_purple\",\"italic\":true}",
